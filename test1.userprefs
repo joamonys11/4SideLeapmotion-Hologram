@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapHolo\Script\LeapRTS.cs">
+    <Files>
+      <File FileName="Assets\LeapMotion\script\Multihandgesture.cs" Line="84" Column="21" />
+      <File FileName="Assets\Sidema\CarouselPro\Examples\Scripts\MultiCarouselsController.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapHolo\Script\LeapRTS.cs" Line="163" Column="46" />
+      <File FileName="Assets\SetPosOri.cs" Line="23" Column="99" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
